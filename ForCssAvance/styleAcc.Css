@@ -1,0 +1,142 @@
+.a1{
+    color: rgb(138, 255, 216);
+    text-decoration: none;
+}
+.a11{
+    color: rgb(152, 152, 152);
+    text-decoration: none;
+
+ }
+ header{
+    background-attachment: fixed;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+ }
+ .logo{
+    padding: 0;
+    margin: 0;
+ }
+ .container1{
+    padding-top: 8px;
+    padding-bottom: 10px;
+    row-gap: 12px;
+ }
+.nav{
+    float: right;
+    word-spacing: 10px
+
+}
+a{
+    text-decoration: none;
+}
+.title1{
+    color: rgb(47, 246, 200);
+    text-align: center;
+    padding-top: 35px ;
+    padding-bottom: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.content1{
+    display:flex;
+   text-align: center;
+   margin-left: 190px;
+    
+}
+.content2{
+    display: flex;
+    padding: 29px;
+    margin: 29px;
+    column-gap: 12px;
+   
+}
+
+.c1{ 
+    background-color: rgb(52, 233, 191) ;
+    border-radius: 6%;
+    content: center;
+    
+}
+body{
+    font-family: Roboto,Arial,sans-serif;
+}
+article{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+}
+i{
+    float: center;
+    margin-left: 72px;
+
+}
+.c2{ 
+background-color:rgb(36, 33, 246);
+border-radius: 6%;
+content: center;
+
+}
+.c3{ 
+    background-color:rgb(32, 31, 42);
+    border-radius: 6%;
+    content: center;
+    
+ }
+ .choix{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+ }
+.e1{
+    display:flex;
+    background-color: rgba(91, 237, 205, 0.393);
+
+}
+.content3{
+    display:grid;
+    
+}
+h2{
+    color:  rgb(49, 206, 164);
+}
+h1{
+    color: rgb(131, 132, 134);
+}
+.info{
+    color: rgb(120, 120, 120);
+}
+.content4{
+    display: flex;
+    background-color:rgb(175, 255, 244) ;
+     width: 1200px;
+     height: 900px;
+     
+   
+}
+.col-2{
+    display: flex;
+    border-color: white;
+    background-color: rgba(255, 255, 255, 0.986);
+    text-align: center;
+    margin-right: 130px;
+    margin-left: 32px;
+    margin-top: 50px;
+}
+.vert-align{
+    display: inline-block;
+    height: 125px;
+    text-align: center;
+}
+.A1{
+    float: center;
+}
+span{
+    background-color: rgba(43, 0, 255, 0.655);
+    
+}
+.C5{
+    display: flex;
+}
+.FF{
+    color:rgb(49, 206, 164) ;
+}
